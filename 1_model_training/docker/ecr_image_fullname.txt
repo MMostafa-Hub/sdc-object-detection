@@ -1,1 +1,1 @@
-650809588621.dkr.ecr.us-east-1.amazonaws.com/tf2-object-detection:20231231140920
+058264377497.dkr.ecr.us-east-1.amazonaws.com/tf2-object-detection:20240211181037
